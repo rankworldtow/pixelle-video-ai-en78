@@ -1,4 +1,4 @@
-# 
+# Nuevo Pixelle-Video plugins. Con asistente de voz y arquitectura escalable — optimizado para el máximo rendimiento y eficiencia.
 
 
 
